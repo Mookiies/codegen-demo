@@ -1,0 +1,12 @@
+{
+  "name": "codegen-demo",
+  "displayName": "codegen-demo",
+  "expo": {
+    "name": "codegen-demo",
+    "slug": "codegen-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
